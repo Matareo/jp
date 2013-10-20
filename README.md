@@ -1,4 +1,6 @@
-jp
-==
+Z notatnika z laboratorium
 
-języki programowania
+```sh
+mkdir katalog1
+
+```c
