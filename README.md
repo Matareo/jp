@@ -1,4 +1,4 @@
-Z notatnika z laboratorium
+Notatka z laboratorium
 
 ```sh
 mkdir katalog1
